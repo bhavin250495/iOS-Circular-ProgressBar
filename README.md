@@ -1,4 +1,4 @@
-# iOS-CIrcular-ProgressBar
+# iOS-Circular-ProgressBar
 ## Steps to integrate
 * Copy CircularProgressBar.swift file in your project
 * Thats it :)
